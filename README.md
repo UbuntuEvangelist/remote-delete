@@ -76,3 +76,4 @@ This would not have been made possible without the help of other open-source pro
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L53CU1H)
 
   
+# remote-delete
